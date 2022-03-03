@@ -1,0 +1,16 @@
+{
+  "name": "web3tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.8.12",
+    "web3": "^1.7.1",
+    "web3.js-browser": "^0.2.0"
+  }
+}
